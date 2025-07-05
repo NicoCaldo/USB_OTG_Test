@@ -1,0 +1,7 @@
+*.cyclo
+*.d
+*.o
+*.su
+*.xml
+*.prefs
+*.mk
